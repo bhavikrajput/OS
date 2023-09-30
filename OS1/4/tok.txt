@@ -1,0 +1,14 @@
+Start 100
+Mover Breg,Seven
+Mover Areg,One
+Mover Dreg,Four
+Mover Creg,One
+Mover Breg,B
+Print A
+Stop
+A Ds 1
+B Ds 2
+Seven Dc '7'
+One DC '1'
+Four Dc '4'
+End
